@@ -36,15 +36,15 @@ We are using this project [transformer_page_view](https://github.com/best-flutte
 
 # Showcases
 
-![Horizontal](https://github.com/mortezaom/flutter_swipe/raw/master/example/res/1.gif)
+![Horizontal](https://github.com/jzoom/flutter_swiper/raw/master/example/res/1.gif)
 
-![Vertical](https://github.com/mortezaom/flutter_swipe/raw/master/example/res/2.gif)
+![Vertical](https://github.com/jzoom/flutter_swiper/raw/master/example/res/2.gif)
 
-![Custom Pagination](https://github.com/mortezaom/flutter_swipe/raw/master/example/res/3.gif)
+![Custom Pagination](https://github.com/jzoom/flutter_swiper/raw/master/example/res/3.gif)
 
-![Custom Pagination](https://github.com/mortezaom/flutter_swipe/raw/master/example/res/4.gif)
+![Custom Pagination](https://github.com/jzoom/flutter_swiper/raw/master/example/res/4.gif)
 
-![Phone](https://github.com/mortezaom/flutter_swipe/raw/master/example/res/5.gif)
+![Phone](https://github.com/jzoom/flutter_swiper/raw/master/example/res/5.gif)
 
 ![Example](https://github.com/jzoom/images/raw/master/swiper-example.gif)
 
