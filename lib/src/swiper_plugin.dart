@@ -1,5 +1,5 @@
 import 'package:flutter/widgets.dart';
-import 'package:flutter_swiper/flutter_swiper.dart';
+import 'package:flutter_swipe/flutter_swipe.dart';
 
 /// plugin to display swiper components
 ///

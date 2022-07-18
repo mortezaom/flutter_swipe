@@ -128,13 +128,13 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "flutter_swiper",
+      "name": "flutter_swipe",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-07-18T19:10:26.390543Z",
+  "generated": "2022-07-18T19:22:25.403002Z",
   "generator": "pub",
   "generatorVersion": "2.17.6"
 }
