@@ -73,7 +73,7 @@ Add
 
 ```bash
 
-flutter_swiper : ^lastest_version
+flutter_swipe : ^lastest_version
 
 ```
 to your pubspec.yaml ,and run 
@@ -97,7 +97,7 @@ Edit lib/main.dart like this:
 
 import 'package:flutter/material.dart';
 
-import 'package:flutter_swiper/flutter_swiper.dart';
+import 'package:flutter_swipe/flutter_swipe.dart';
 
 void main() => runApp(new MyApp());
 
