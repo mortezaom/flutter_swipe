@@ -1,7 +1,7 @@
 name: flutter_swiper
 description: The best swiper(carousel) for flutter, with multiple layouts, infinite loop. Compatible with Android & iOS.
-version: 1.0.2
-homepage: https://github.com/mortezaom/flutter_swiper
+version: 1.0.0
+homepage: https://github.com/mortezaom/flutter_swiper.git
 
 dependencies:
   flutter:
